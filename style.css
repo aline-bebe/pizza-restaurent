@@ -1,8 +1,10 @@
+
+
 .first {
-    background-image: url(image/pic1.jpeg) ;
+    background-image: url(image/b2.jpeg) ;
     background-size: cover;
     position: relative;
-    /* text-align: center; */
+    
     height: 600px;
     /* background-color: white; */
 }
