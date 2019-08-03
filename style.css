@@ -1,7 +1,12 @@
 .first {
-    background-image: url(image/images.jpeg) ;
+    background-image: url(image/pic1.jpeg) ;
     background-size: cover;
     position: relative;
-    text-align: center;
+    /* text-align: center; */
     height: 600px;
+    /* background-color: white; */
+}
+.well{
+  color: white;
+    
 }
