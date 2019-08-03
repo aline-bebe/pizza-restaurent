@@ -1,0 +1,7 @@
+.first {
+    background-image: url(image/images.jpeg) ;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+    height: 600px;
+}
