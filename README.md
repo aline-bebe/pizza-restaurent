@@ -5,15 +5,17 @@ this is Aline Ingabire, Am the own who developed this site.
 ## DESCRIPTION
 ### Online selling pizza
 this project will help people to buy their favorites pizza and We  deliver  it for small prices.
-## SETUP INSTALLATION  REQUIRED
-  *UBUNTU
-  *VISIO CODE
-  *git code 
-  *terminal
+
 ## TECHNOLOGY USED
-  *HTML
-  *CSS
-  *JAVA SCRIPT
+* find visual studio
+* ubuntu , terminal
+* downloading bootstrap  and then copy file of bootstrap which called bootstrap.min.css.
+* link java script to your html
+* cd Desktop
+* using jquery  for me i use this one jquery-3.4.1.min.js
+* git clone
+* code .
+
   
 ## BDD
  **Input**
@@ -26,4 +28,4 @@ then view a form of different pizza and choose your favorite
     https://github.com/aline-bebe/pizza-restaurent.git
 
 ## LICENSE
-Licensed by MIT copyright @ 2019 **aline ingabire*
+Licensed by MIT copyright @ 2019 
