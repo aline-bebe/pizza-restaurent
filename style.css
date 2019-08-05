@@ -2,27 +2,27 @@
 
 
 
-.footer{
-  text-align: center;
-  margin-top: 20%;
-  color: white;
+  .footer{
+    text-align: center;
+    margin-top: 20%;
+    color: white;
 
-}
-#pizzaDetail{
-  color:white;
-}
-.pizza{
-  background-image: url(image/piz.jpg) ;
-  background-size: cover;
-  position: relative;
-  
-  height: 700px;
-}
-#pizzaOrder{
-  background-color:black;
-  opacity:0.6;
-  color:white;
-}
-#totalPizzaCost{
-  color: beige;
-}
+  }
+  #pizzaDetail{
+    color:white;
+  }
+  .pizza{
+    background-image: url(image/piz.jpg) ;
+    background-size: cover;
+    position: relative;
+    
+    height: 700px;
+  }
+  #pizzaOrder{
+    background-color:black;
+    opacity:0.6;
+    color:white;
+  }
+  #totalPizzaCost{
+    color: beige;
+  }
