@@ -1,27 +1,29 @@
 
-    # project name.
-    Online Selling Pizza.
-    #### Project description.
-    selling pizza online by selecting small, medium and large pizza you want and then We  deliver it with small prices.
-    ## Author's information
-    this is Aline Ingabire, Am the own who developed this site. 
+# Online selling pizza
+## Author
+this is Aline Ingabire, Am the own who developed this site.
+## DESCRIPTION
+### Online selling pizza
+this project will help people to buy their favorites pizza and We  deliver  it for small prices.
+## SETUP INSTALLATION  REQUIRED
+  *UBUNTU
+  *VISIO CODE
+  *git code 
+  *terminal
+## TECHNOLOGY USED
+  *HTML
+  *CSS
+  *JAVA SCRIPT
+  
+## BDD
+ **Input**
+ once you want to buy pizza on this website you will first click on pizzaorder.
+then view a form of different pizza and choose your favorite
+ **Output**
+  The client will get the total amount of his order .
+   and then click on deliver button he will be alerted to give his location.
+## PROJECT LINK
+    https://github.com/aline-bebe/pizza-restaurent.git
 
-    ## Setup/Installation Requirements
-    * find visual studio
-    * ubuntu , terminal
-    * downloading bootstrap  and then copy file of bootstrap which called bootstrap.min.css.
-    * link java script to your htmll
-    * cd Desktop
-    * git clone
-    * code .
-    * link css also in your html
-
-
-
-    ## Technologies used.
-    this application was developed by using html , css, bootstrap, javascript, .
-    ## Contact information.
-    for any issues please contact me on my email:ingabirealine40@gmail.com
-    ### License and Copyright information.
-    MIT license <br>
-    copyright(c)2019 aline ingabire
+## LICENSE
+Licensed by MIT copyright @ 2019 **aline ingabire*
