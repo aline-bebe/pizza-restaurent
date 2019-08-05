@@ -10,10 +10,8 @@ this is Aline Ingabire, Am the own who developed this site.
 * find visual studio
 * ubuntu , terminal
 * downloading bootstrap  and then copy file of bootstrap which called bootstrap.min.css.
-* link java script to your html
-* link your jquery to html
+* link java script to your htmll
 * cd Desktop
-* using jquery  for me i use this one jquery-3.4.1.min.js
 * git clone
 * code .
 * link css also in your html
