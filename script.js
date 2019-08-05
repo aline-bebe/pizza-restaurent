@@ -13,11 +13,11 @@ function Order (pizzaSize, crust) {
 }
 Order.prototype.pizzaCost = function () {
   if (this.pizzaSize === "Small") {
-    this.pizzaPrice += 2500;
+    this.pizzaPrice += 2000;
   } else if (this.pizzaSize === "Medium") {
-    this.pizzaPrice += 3500;
+    this.pizzaPrice += 3000;
   } else if (this.pizzaSize === "Large") {
-    this.pizzaPrice += 4500;
+    this.pizzaPrice += 4000;
   }
   if (this.crust === "crispy") {
     this.pizzaPrice += 1000;
@@ -82,7 +82,7 @@ $("button#deliver").click(function(event){
     alert("We will deliver your order at" + " " + location);
     $("#checkout").show();
 })
-$("button#send").click(function(event){
+$("button#pickup").click(function(event){
     event.preventDefault();
     alert("Thank you for buying pizza!");
     $("#checkout").show();
@@ -91,9 +91,9 @@ $("button#send").click(function(event){
 //     event.preventDefault();
 //     var check = TotalPrice + del;
 //     $("#check").text(check);
-    // console.log(check);
+//     // console.log(check);
 
-})
+// })
    
     
 
