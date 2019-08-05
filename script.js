@@ -47,14 +47,7 @@ Order.prototype.finalCost = function () {
   return TotalPrice;
 }
 
-// Order.prototype.numberOfPizza = function () {
-//     for(var j = 1; j < pizzaNumbers.length; j++){
-//         var  pizzaNumber = finalCost() * pizzaNumber[j];
-//     }
-//         return pizzaNumber;
-//       }
-    
-//User Interface Logic
+
 $(document).ready(function() {
   $("form#pizzaOrder").submit(function(event) {
       event.preventDefault();
@@ -91,7 +84,7 @@ $("button#deliver").click(function(event){
 })
 $("button#pickup").click(function(event){
     event.preventDefault();
-    alert("Thank you for shopping with us!!!!!");
+    alert("Thank you for buying pizza!");
     $("#checkout").show();
 })
 $("button#checkout").click(function(event){
